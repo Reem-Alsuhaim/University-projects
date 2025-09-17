@@ -1,6 +1,6 @@
 # CSC281 - Linear Congruences Solver (CRT)
 
-This project was developed as part of [Course Code]: [Course Name] at King Saud University.  
+This project was developed as part of CSC281: DISCRETE MATHEMATICS FOR COMPUTER SCIENCE at King Saud University.  
 It focuses on implementing a solver for **linear congruences** using the **Chinese Remainder Theorem (CRT)**. 
 
 
