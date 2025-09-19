@@ -25,8 +25,11 @@ The program:
 ---
 
 ## 📂 Project Structure
-AI_project.java # Main Java code
-AI_report.pdf # Project report
+```
+AI_project.java      # Main Java code  
+Ai_report.pdf        # Project report  
+```
+
 
 ---
 
