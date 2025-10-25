@@ -17,5 +17,5 @@ It focuses on implementing a solver for **linear congruences** using the **Chine
 3. The program calculates and prints the general solution in the form:   x ≡ result (mod M)
 
 ## Implemented collaboratively by:
-[Reem](https://github.com/Reem-Alsuhaim)  
-[Hessa](https://github.com/hessakhs)
+[Reem Alsuhaim](https://github.com/Reem-Alsuhaim)  
+[Hessa Ibn Qurmulah](https://github.com/hessakhs)
