@@ -36,4 +36,4 @@ Ai_report.pdf        # Project report
 ## 👥 Developed by
 This project was developed by:  
 - [Reem Alsuhaim](https://github.com/Reem-Alsuhaim)  
-- [Hissah](https://github.com/hessakhs)
+- [Hissah Ibn Qurmulah](https://github.com/hessakhs)
